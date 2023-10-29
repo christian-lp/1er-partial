@@ -78,7 +78,7 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 $mail->Username   = $sourcemail;  // GMAIL username
 $mail->Password   = $passmail;            // GMAIL password
-$mail->SetFrom("systemmss2023@gmail.com", 'Mi sitio WEB');
+$mail->SetFrom("tu-correo", 'Mi sitio WEB');
 $mail -> AddAddress($email,$name);
 $mail->Subject    = "Confirmar Registro en sitio web.... ";
 $mail->AltBody    = "...---..."; // optional, comment out and test
