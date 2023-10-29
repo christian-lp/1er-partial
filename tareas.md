@@ -1,0 +1,11 @@
+- Descargar archivo para normalizar
+- Reemplazar los campos delimitadores por pipe "|"
+- Crear .gitignore
+- Diagramar las tablas
+- Crear las carpeta shells para los scripts de normalizacion
+- Carpeta Controlers para los buscadores
+- Carpeta Views para scripts de vistas o diseño.
+- Carpeta Data para los archivos con extension .dat .txt
+- Normalizar datos utilizando php y python en al menos una normalizacion
+- Realizar login con roles para usuario y admin.
+- Crear una Wiki con los detelles de los trabajos realizados.

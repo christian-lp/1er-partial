@@ -1,0 +1,5 @@
+Extraction completed successfully!
+
+<br>
+<br>
+<button onclick="history.back()">Volver</button>
